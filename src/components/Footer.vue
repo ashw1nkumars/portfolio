@@ -22,13 +22,14 @@
               @click="open('github')"
             >
               <i class="fab fa-github"></i>
-            </button>
+            <!-- Add other social media links here -->
+              <!-- </button>
             <button
               class="btn btn-outline-secondary mx-2"
               @click="open('behance')"
             >
               <i class="fab fa-behance"></i>
-            </button>
+            </button> -->
             <button
               class="btn btn-outline-secondary mx-2"
               @click="open('resume')"
