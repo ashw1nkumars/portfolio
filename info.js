@@ -1,6 +1,6 @@
 let info = {
-  name: "Mahy Mohab",
-  logo_name: "Mahy",
+  name: "Ashwin Kumar Suriyanarayanan",
+  logo_name: "Ashwin",
   flat_picture: require("./src/assets/me.png"),
   config: {
     use_cookies: true,
@@ -9,11 +9,10 @@ let info = {
     }
   },
   description:
-    "hey there, I'm Mahy Mohab about to graduate from the computer and information technology KSU, SE department. A UI/UX Designer with 2+ experience familiar with Figma, xd, photoshop, illustrator, also, a Frontend Engineer with 4+ experience, and 1+ experience with react, react native, vuejs.",
+    "hey there, I'm Ashwin Kumar Suriyanarayanan about to graduate from the computer and information technology KSU, SE department. A UI/UX Designer with 2+ experience familiar with Figma, xd, photoshop, illustrator, also, a Frontend Engineer with 4+ experience, and 1+ experience with react, react native, vuejs.",
   links: {
-    linkedin: "https://www.linkedin.com/in/mahy-mohab-209/",
-    github: "https://github.com/mahy209",
-    behance: "https://www.behance.net/mahymohab",
+    linkedin: "https://www.linkedin.com/in/ashwin-kumar/",
+    github: "https://github.com/ashw1nkumars",
     resume: "https://drive.google.com/file/d/1W0pzOo1Gb-W70BYKehOfZ4qaJt7m1_7O/view?usp=sharing",
   },
   education: [
@@ -27,7 +26,7 @@ let info = {
         "",
       skills: [
         "Software Engineering",
-        "web programming",
+        "Web App Development",
         "UI/UX design",
         "Front-end developing",
       ]
